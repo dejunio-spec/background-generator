@@ -1,0 +1,19 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "Background generator page created with HTML, CSS and JS applying concepts learned on Andrei Neagoie Web Developer's course.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dejunio-spec/background-generator.git"
+  },
+  "author": "Jose Martínez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dejunio-spec/background-generator/issues"
+  },
+  "homepage": "https://github.com/dejunio-spec/background-generator#readme"
+}
